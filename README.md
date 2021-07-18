@@ -1,5 +1,3 @@
-This is my first project of HTML and CSS. Under this project, I created a personal portfolio website..
-
 #SHAPEAI WEB DEV BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
